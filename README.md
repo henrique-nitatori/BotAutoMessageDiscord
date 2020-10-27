@@ -14,6 +14,10 @@ você deve ir na aba bot e criar um, perto da imagem do bot há um campo chamado
 - Para inserir o bot no seu servidor entre nesse link https://discordapp.com/oauth2/authorize?=&client_id=###&scope=bot&permissions=8 e 
 aonde está escrito client_id você deve apagar os caracteres '###' e pega seu client id da aplicação que foi criada
 
+### Requisitos
+- NodeJs
+- Yarn ou Npm
+
 ### Execução 
 Quando o bot entrar na primeira vez no seu servidor ele irá criar um canal com o nome que foi posto na variável channelMaster e criar a regra
 com o nome que foi indicado em roleAutoMessage assim colocando as informações sobre o comando no canal
