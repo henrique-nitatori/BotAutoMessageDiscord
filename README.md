@@ -17,3 +17,6 @@ aonde está escrito client_id você deve apagar os caracteres '###' e pega seu c
 ### Execução 
 Quando o bot entrar na primeira vez no seu servidor ele irá criar um canal com o nome que foi posto na variável channelMaster e criar a regra
 com o nome que foi indicado em roleAutoMessage assim colocando as informações sobre o comando no canal
+
+### Adicionar funcionalidades
+Se você se interessou no projeto e quer adicionar mais funcionalidades faça um fork e mande pull request
