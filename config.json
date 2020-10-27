@@ -1,0 +1,4 @@
+{   "roleAutoMessage": "Escreva aqui o nome da role para usar o bot",
+    "channelMaster": "Escreva aqui o nome do canal de mensagem que sera criado para usar o bot",
+    "token": "coloque aqui o token de acesso do bot criado em https://discord.com/developers/applications/720993624820678656/information"
+}

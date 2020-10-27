@@ -1,0 +1,14 @@
+{
+  "name": "BotAutoMessage",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "dev": "nodemon ./src/bot.js",
+    "start": "pm2-runtime start ecosystem.config.js --env production"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "pm2": "^4.5.0"
+  }
+}
